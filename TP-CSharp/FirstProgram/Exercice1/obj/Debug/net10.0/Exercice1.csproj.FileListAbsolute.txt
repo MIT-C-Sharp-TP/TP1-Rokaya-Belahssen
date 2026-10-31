@@ -1,0 +1,14 @@
+D:\TP-CSharp\FirstProgram\Exercice1\bin\Debug\net10.0\Exercice1.exe
+D:\TP-CSharp\FirstProgram\Exercice1\bin\Debug\net10.0\Exercice1.deps.json
+D:\TP-CSharp\FirstProgram\Exercice1\bin\Debug\net10.0\Exercice1.runtimeconfig.json
+D:\TP-CSharp\FirstProgram\Exercice1\bin\Debug\net10.0\Exercice1.dll
+D:\TP-CSharp\FirstProgram\Exercice1\bin\Debug\net10.0\Exercice1.pdb
+D:\TP-CSharp\FirstProgram\Exercice1\obj\Debug\net10.0\Exercice1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TP-CSharp\FirstProgram\Exercice1\obj\Debug\net10.0\Exercice1.AssemblyInfoInputs.cache
+D:\TP-CSharp\FirstProgram\Exercice1\obj\Debug\net10.0\Exercice1.AssemblyInfo.cs
+D:\TP-CSharp\FirstProgram\Exercice1\obj\Debug\net10.0\Exercice1.csproj.CoreCompileInputs.cache
+D:\TP-CSharp\FirstProgram\Exercice1\obj\Debug\net10.0\Exercice1.dll
+D:\TP-CSharp\FirstProgram\Exercice1\obj\Debug\net10.0\refint\Exercice1.dll
+D:\TP-CSharp\FirstProgram\Exercice1\obj\Debug\net10.0\Exercice1.pdb
+D:\TP-CSharp\FirstProgram\Exercice1\obj\Debug\net10.0\Exercice1.genruntimeconfig.cache
+D:\TP-CSharp\FirstProgram\Exercice1\obj\Debug\net10.0\ref\Exercice1.dll
